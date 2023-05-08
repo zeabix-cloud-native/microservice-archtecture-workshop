@@ -1,0 +1,13 @@
+@startuml
+skinparam linetype ortho
+
+entity "User" as user {
+    *id: text <<mobile no>>
+    --
+    firstname: text
+    lastname: text
+
+}
+
+
+@enduml
