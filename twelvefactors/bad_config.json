@@ -1,0 +1,6 @@
+{
+    "host": "mysql01.myorg.com",
+    "user": "app1",
+    "password": "SecuredString"
+
+}
